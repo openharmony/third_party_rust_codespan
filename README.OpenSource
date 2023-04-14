@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "codespan",
+    "License": "Apache License 2.0",
+    "License File": "LICENSE",
+    "Version Number": "v0.11.1",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/brendanzab/codespan",
+    "Description": "A Rust library that provides support for source code display and formatting."
+  }
+]
